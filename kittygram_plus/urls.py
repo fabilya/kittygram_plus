@@ -11,4 +11,4 @@ router.register('owners', OwnerViewSet)
 
 urlpatterns = [
     path('', include(router.urls)),
-] 
+]
